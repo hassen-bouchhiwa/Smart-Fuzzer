@@ -1,0 +1,15 @@
+openai_key: "Your Key Here"
+wordlist: "./wordlist.txt"
+default_blacklist:  
+    - ttf
+    - woff
+    - svg
+    - png
+    - css
+    - jpg
+    - png
+    - jpeg
+    - eot
+    - ico
+    - woff2
+    - gif
